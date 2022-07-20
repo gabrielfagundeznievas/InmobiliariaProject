@@ -8,7 +8,7 @@ class ActiveRecord {
     protected static $columnasBD = [];
     protected static $tabla = '';
  
-    // Errores
+    // Erroress  
     protected static $errores = [];
  
  
